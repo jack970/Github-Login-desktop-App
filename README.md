@@ -1,4 +1,4 @@
-<h1 align="center">Github login page desktop App</h1>
+<h1 align="center">Github Login desktop App</h1>
 
 🚀 Desktop App built with Python and QML Language.
 
